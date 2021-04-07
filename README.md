@@ -1,3 +1,2 @@
-# HIT226-Project
-
-Conner Mostert S233186
+# Information-Cards
+information cards week 5 s587273
